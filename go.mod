@@ -1,4 +1,4 @@
-module xint
+module github.com/mproved/xint
 
 go 1.22.0
 
